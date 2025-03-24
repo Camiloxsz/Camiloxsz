@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcelino Camilo 👋
 
-Sou estudante de **Redes de Computadores** no **Instituto Federal da Paraíba**, tenho 18 anos e sou apaixonado por aprender sobre redes, segurança cibernética e a infraestrutura tecnológica que conecta o mundo digital. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+Sou estudante de **Redes de Computadores** no **Instituto Federal da Paraíba**, tenho 19 anos e sou apaixonado por aprender sobre redes, segurança cibernética e a infraestrutura tecnológica que conecta o mundo digital. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
 ## 🎓 Atualmente estou estudando:
 - Redes de Computadores
