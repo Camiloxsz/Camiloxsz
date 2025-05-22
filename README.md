@@ -4,10 +4,10 @@ Sou estudante de **Redes de Computadores** no **Instituto Federal da Paraíba**,
 
 ## 🎓 Atualmente estou estudando:
 - Redes de Computadores
-- Protocolos de Comunicação
-- Segurança Cibernética
+- Protocolos de Roteamento
+- Cybersecurity
 - Sistemas Operacionais
-- Automação de Redes
+- Programação de Scripts
 
 ## 🌱 O que estou aprendendo:
 - Implementação e configuração de redes locais (LAN) e redes de longa distância (WAN).
