@@ -1,20 +1,38 @@
-# Olá, eu sou o Marcelino Camilo 👋
+👨‍💻 Marcelino Camilo
 
-Sou estudante de **Redes de Computadores** no **Instituto Federal da Paraíba**, tenho 19 anos e sou apaixonado por aprender sobre redes, segurança cibernética e a infraestrutura tecnológica que conecta o mundo digital. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+🎓 Computer Networks student at the Federal Institute of Paraíba (IFPB) — passionate about cybersecurity, network infrastructure, and information technology.
 
-## 🎓 Atualmente estou estudando:
-- Redes de Computadores
-- Protocolos de Roteamento
-- Cybersecurity
-- Sistemas Operacionais
-- Programação de Scripts
+I'm 19 years old and fascinated by how systems connect, communicate, and can be secured. I'm always exploring new tools, concepts, and practices related to offensive security (Red Team), defensive security (Blue Team), and network monitoring.
+🚀 Currently learning:
 
-## 🌱 O que estou aprendendo:
-- Implementação e configuração de redes locais (LAN) e redes de longa distância (WAN).
-- Análise e resolução de problemas de rede.
-- Gerenciamento de segurança de redes e proteção contra ameaças cibernéticas.
+    Network architecture and OSI/TCP models
 
-## 📫 Como me encontrar:
-- E-mail: camilomarcelinomarcelo@gmail.com
-- LinkedIn: www.linkedin.com/in/marcelino-camilo-3b04022ba
-- Instagram: https://www.instagram.com/camiloxsz/
+    Routing protocols (Static, RIP, OSPF)
+
+    Cybersecurity fundamentals and vulnerability analysis
+
+    Linux and Windows operating systems
+
+    Shell scripting and task automation
+
+🛠️ Developing skills in:
+
+    Implementation of LAN and WAN networks with routers and switches
+
+    Network troubleshooting and connectivity analysis
+
+    Network security, firewalls, and access control
+
+    Monitoring with Zabbix and traffic analysis with Wireshark
+
+    Using tools like Nmap, Burp Suite, and Packet Tracer
+
+🌐 Get in touch:
+
+    📧 camilomarcelinomarcelo@gmail.com
+
+    💼 LinkedIn
+
+    📷 Instagram
+
+
