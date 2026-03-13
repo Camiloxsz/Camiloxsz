@@ -2,7 +2,7 @@
 
 🎓 Computer Networks student at the **Federal Institute of Paraíba (IFPB)** — passionate about **cybersecurity**, **network infrastructure**, and **information technology**.
 
-I'm 19 years old and fascinated by how systems connect, communicate, and can be secured. I'm always exploring new tools, concepts, and practices related to offensive security (Red Team), defensive security (Blue Team), and network monitoring.
+I'm 20 years old and fascinated by how systems connect, communicate, and can be secured. I'm always exploring new tools, concepts, and practices related to offensive security (Red Team), defensive security (Blue Team), and network monitoring.
 
 ---
 
